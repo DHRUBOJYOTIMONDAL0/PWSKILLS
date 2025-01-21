@@ -8,7 +8,7 @@
 
 # map(function, iterable)
 l = [2,3,4,5]
-def add(x):
-    return x+10
-print(list(map(add,l)))
-
+# def add(x):
+#     return x+10
+# print(list(map(add,l)))
+# 
