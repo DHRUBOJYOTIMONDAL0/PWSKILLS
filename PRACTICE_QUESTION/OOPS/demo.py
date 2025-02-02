@@ -61,4 +61,5 @@ class Book:
         print(self.name_of_book, self.book_author)
 std1 = Book("Python", "Dhrubo", "Data Science")
 std1.extract_deatails_name_author()
-std1.extract_deatails_name_title()            
+std1.extract_deatails_name_title()
+std1.extract_deatails_name_title()       
