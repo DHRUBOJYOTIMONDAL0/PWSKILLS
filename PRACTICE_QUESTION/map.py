@@ -7,8 +7,11 @@
 # print(square_list(l))       
 
 # map(function, iterable)
-l = [2,3,4,5]
+# l = [2,3,4,5]
 # def add(x):
 #     return x+10
 # print(list(map(add,l)))
 # 
+
+
+

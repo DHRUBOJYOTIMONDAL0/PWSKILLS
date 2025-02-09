@@ -1,0 +1,4 @@
+2025-02-09 13:40:42,683 - ERROR - Division by zero error occurred.
+2025-02-09 13:41:06,676 - ERROR - Division by zero error occurred.
+2025-02-09 13:43:43,732 - ERROR - This is an error message.
+2025-02-09 13:43:43,733 - CRITICAL - This is a critical message.

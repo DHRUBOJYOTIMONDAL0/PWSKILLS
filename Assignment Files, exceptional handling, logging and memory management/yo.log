@@ -1,0 +1,4 @@
+2025-02-09 14:14:29,384 - INFO - Program started successfully.
+2025-02-09 14:14:29,384 - ERROR - Error: Division by zero is not allowed.
+2025-02-09 14:14:29,384 - INFO - Caught an exception and handled it gracefully.
+2025-02-09 14:14:29,384 - INFO - Program continues after handling the exception.
