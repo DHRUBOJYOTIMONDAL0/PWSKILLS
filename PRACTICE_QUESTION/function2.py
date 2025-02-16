@@ -34,3 +34,4 @@ def square_number_generators(num):
 #print(square_number_generators(10))   # yield is creating a genrator / iterator object
 gen = square_number_generators(10)
 print(next(gen))
+print(next(gen))
