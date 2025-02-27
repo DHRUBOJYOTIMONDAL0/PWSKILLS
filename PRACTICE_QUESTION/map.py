@@ -13,5 +13,3 @@
 # print(list(map(add,l)))
 # 
 
-
-
