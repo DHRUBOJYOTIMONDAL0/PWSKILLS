@@ -1,0 +1,6 @@
+INFO:root:This is my normal information
+WARNING:root:There can be empty list here
+INFO:root:This is my normal information
+WARNING:root:There can be empty list here
+INFO:root:Checking if 11 is a prime number.
+INFO:root:11 is a prime number.
